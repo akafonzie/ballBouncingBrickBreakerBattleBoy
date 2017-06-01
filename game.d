@@ -1,0 +1,11 @@
+game.o: game.c
+game.o: game.h
+game.o: C:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_cl.h
+game.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+game.o: C:\Keil\ARM\RV31\INC\stdint.h
+game.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+game.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+game.o: C:\Keil\ARM\INC\ST\STM32F10x\system_stm32f10x_cl.h
+game.o: C:\Keil\ARM\RV31\INC\stdio.h
+game.o: C:\Keil\ARM\RV31\INC\ctype.h
+game.o: C:\Keil\ARM\RV31\INC\math.h
